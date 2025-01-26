@@ -1,0 +1,2 @@
+# Cryptography learning stuff and some go stuff
+Takes input to encrypt or decrypt caeser cypher. Super simple, but has kind of a cool function to identify what is english by weighting the decrypted text based on digrams, trigrams, 3 and 4 letter words.
